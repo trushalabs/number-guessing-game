@@ -38,6 +38,7 @@ Example
 I have chosen a number between 1 and 100.
 Try to guess it!
 
+
 Enter your guess: 50
 Too high! Try again.
 
