@@ -32,9 +32,9 @@ Run the program using:
 python guessing_game.py
 
 Example
-==============================
-     NUMBER GUESSING GAME
-==============================
+======================
+NUMBER GUESSING GAME
+======================
 I have chosen a number between 1 and 100.
 Try to guess it!
 
