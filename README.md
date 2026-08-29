@@ -29,26 +29,35 @@ Make sure Python is installed.
 
 Run the program using:
 
+```text
 python guessing_game.py
 
 Example
-=========================
-Number Guessing Game
-=========================
+==============================
+     NUMBER GUESSING GAME
+==============================
 I have chosen a number between 1 and 100.
 Try to guess it!
 
+Enter your guess: 60
+Too high! Try again.
 
 Enter your guess: 50
 Too high! Try again.
 
-Enter your guess: 25
+Enter your guess: 40
 Too low! Try again.
 
-Enter your guess: 37
+Enter your guess: 44
 Congratulations! You guessed it!
-You guessed the number in 3 attempts.
+You guessed the number in 4 attempts.
+
+Do you want to play again? (yes/no): no
+Thanks for playing!
 
 
 Author
 Trusha Patel
+
+
+
