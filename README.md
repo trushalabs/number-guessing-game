@@ -59,5 +59,6 @@ Thanks for playing!
 Author
 Trusha Patel
 
+## Project Screenshot
 
-
+![Number Guessing Game](guessing_game.png)
